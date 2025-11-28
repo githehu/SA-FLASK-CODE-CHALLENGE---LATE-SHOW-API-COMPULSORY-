@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# Pytest
+.pytest_cache/
+
+# Coverage and reports
+htmlcov/
+coverage.xml
+.coverage
+.coverage.*
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.sqlite
+
+# Flask instance folder
+instance/
+
+# Migrations cache / pyc
+migrations/__pycache__/
+migrations/*.pyc
+
+# Type checkers / caches
+.mypy_cache/
+.pyre/
+
+# Python wheel/build metadata
+pip-wheel-metadata/
+*.egg-info/
+
+# Ignore build byproducts
+__pycache__/
+*.so
+
+# Local editor backup files
+*~
+*.swp
+
+#######
+env/
+__pycache__/
+*.pyc
+*.db
+migrations/
+.DS_Store
+.pytest_cache/
+
+# End of file
